@@ -1,0 +1,29 @@
+body {
+    background-image: url(./images/pexels-pixabay-414645\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+div {
+    font-family:'lobster';
+    font-style: italic;
+    font-size:5vw;
+    color:black;
+}
+
+.container {
+    text-align: right;
+    margin: 16% 12% 0% 0%;    
+}
+
+button {
+    font-family: 'lobster';
+    font-size: 2vw;
+    border: none;
+    cursor: pointer;
+    display: contents;
+}
+
+.button {
+    text-align: center;
+}
