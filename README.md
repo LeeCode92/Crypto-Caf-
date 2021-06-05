@@ -1,3 +1,5 @@
 # Crypto-Caf-
 
-Hello Luke 
+Crypto cafe 
+Metamask linked
+Crypto news and Videos 
